@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/utkarsh-tiwari-60922632b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
