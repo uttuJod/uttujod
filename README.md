@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+  <a href="https://www.instagram.com/https://www.youtube.com/watch?v=dQw4w9WgXcQ/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -18,9 +18,9 @@
 ---
 
 ### 📌 About Me
-- 🔭 I’m currently working on **ML / DL + Python projects**
-- 🌱 Learning **Scikit-learn, PyTorch, Data Science**
-- ⚡ Fun fact: **I love Pasta**
+- 🔭 Working on **Cloud-based ML / AI projects using Python**
+- 🌱 Learning **Cloud platforms, Deep Learning, Scikit-learn, and PyTorch**
+- ⚡ Fun fact: **Good code and good pasta both need the right balance 🍝**
 
 ---
 
@@ -60,6 +60,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quotes" />
 </p>
+
 ---
 
 ---
@@ -329,7 +330,7 @@ You find a hidden door labeled:
 - ✅ <a href="#er-secretwin">Insert Microcontroller Chip</a>
 - 🔙 <a href="#er-workshop">Go back</a>
 
---
+---
 
 ## 🕳️ Secret Ending
 <a name="er-secretwin"></a>
@@ -341,12 +342,7 @@ A hatch opens to the outside.
 
 👉 <a href="#-readme-game-the-terminal-escape-room">Play again</a>
 
----
 
----
-
-### 🏆 Pinned Projects (do this from your GitHub profile)
-Pin your best repos here: projects, FYP, dashboards, OptiLAM work, etc.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uttuJod&label=Profile%20views" />
