@@ -61,3 +61,90 @@ Pin your best repos here: projects, FYP, dashboards, OptiLAM work, etc.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uttuJod&label=Profile%20views" />
 </p>
+
+---
+
+## 🎮 Mini Game: Door Quest (Click to Play)
+
+You wake up in a dungeon with **3 doors**.  
+Pick one:
+
+<p align="center">
+  <a href="#dq-red">🟥 Red Door</a> •
+  <a href="#dq-blue">🟦 Blue Door</a> •
+  <a href="#dq-green">🟩 Green Door</a>
+</p>
+
+---
+
+### 🟥 Red Door
+<a name="dq-red"></a>
+You enter a room with a sleeping dragon 🐉  
+Do you **steal the gold** or **sneak away**?
+
+- 💰 <a href="#dq-gold">Steal the gold</a>
+- 🥷 <a href="#dq-sneak">Sneak away</a>
+
+---
+
+### 🟦 Blue Door
+<a name="dq-blue"></a>
+You find a console with a network port 🌐  
+Choose your move:
+
+- 🔌 <a href="#dq-tcp">Try TCP handshake</a>
+- 📡 <a href="#dq-udp">Send a UDP packet</a>
+
+---
+
+### 🟩 Green Door
+<a name="dq-green"></a>
+You discover a tiny Arduino robot 🤖  
+Do you:
+
+- ⚙️ <a href="#dq-arduino">Upload firmware</a>
+- 🔋 <a href="#dq-battery">Replace battery</a>
+
+---
+
+## ✅ Outcomes
+
+### 💰 Steal the gold
+<a name="dq-gold"></a>
+The dragon wakes up 😭🔥  
+**Game Over.**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
+### 🥷 Sneak away
+<a name="dq-sneak"></a>
+You escape quietly with a single coin 🪙  
+**You Win!**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
+### 🔌 TCP handshake
+<a name="dq-tcp"></a>
+SYN → SYN/ACK → ACK ✅  
+Connection established. You download the map 🗺️  
+**You Win!**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
+### 📡 UDP packet
+<a name="dq-udp"></a>
+Packet sent… but no guarantee it arrived 😅  
+A trap triggers.  
+**Game Over.**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
+### ⚙️ Upload firmware
+<a name="dq-arduino"></a>
+Upload successful ✅  
+Robot opens a hidden exit 🚪  
+**You Win!**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
+### 🔋 Replace battery
+<a name="dq-battery"></a>
+Battery sparks ⚡ and resets the room lights 😵  
+**Game Over.**  
+👉 <a href="#-mini-game-door-quest-click-to-play">Play again</a>
+
