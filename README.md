@@ -56,16 +56,6 @@
 ---
 
 ---
-
-sole with a network port 🌐  
-Choose your move:
-
-- 🔌 <a href="#dq-tcp">Try TCP handshake</a>
-- 📡 <a href="#dq-udp">Send a UDP packet</a>
-
----
-
----
 <h3 align="center">✍️ Auto-generated  Dev Quotes 🌟</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quotes" />
@@ -86,8 +76,7 @@ Good luck—and may your debugging instincts guide you. 🚀
 
 [Take me to the bottom](#bottom)
 
-
---
+---
 ## 🎮 README Game: The Terminal Escape Room
 
 You’re locked in a lab.  
@@ -352,9 +341,9 @@ A hatch opens to the outside.
 
 👉 <a href="#-readme-game-the-terminal-escape-room">Play again</a>
 
---
+---
 
---
+---
 
 ### 🏆 Pinned Projects (do this from your GitHub profile)
 Pin your best repos here: projects, FYP, dashboards, OptiLAM work, etc.
