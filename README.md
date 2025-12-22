@@ -20,7 +20,7 @@
 ### 📌 About Me
 - 🔭 I’m currently working on **ML / DL + Python projects**
 - 🌱 Learning **Scikit-learn, PyTorch, Data Science**
-- ⚡ Fun fact: **I love (your fun fact here)**
+- ⚡ Fun fact: **I love Pasta**
 
 ---
 
@@ -46,7 +46,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,arduino,raspberrypi,python,cpp,c,java,cs,bash,pytorch,tensorflow,sklearn,js,ts,react,html,css,git,github,mysql,postgres,redis,nodejs" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,arduino,raspberrypi,python,cpp,c,java,cs,bash,pytorch,tensorflow,sklearn,js,figma,html,css,git,github,mysql,postgres,redis,nodejs" />
 </p>
 
 <p align="center">
@@ -54,13 +54,6 @@
 </p>
 
 ---
-
-### 🏆 Pinned Projects (do this from your GitHub profile)
-Pin your best repos here: projects, FYP, dashboards, OptiLAM work, etc.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uttuJod&label=Profile%20views" />
-</p>
 
 ---
 
@@ -81,15 +74,15 @@ Choose your move:
 
 ---
 <a name="top"></a>
-I invite you to engage in a round of Tic-Tac-Toe. Please allow a brief moment for all the emojis to load on this page, and then commence the game by clicking on the uppermost box.
+I invite you to step into a miniature escape room designed entirely within this README. Please allow a brief moment for the page to fully load, as the game relies on internal navigation links.
 
-The initial move will be made by X. To make your move, click on any of the nine boxes.
+Your objective is to explore the environment, make informed decisions, and collect the required items to unlock the exit. Each choice you make will redirect you to a corresponding outcome within this document. Some paths lead to progress, others to failure, and a few to hidden endings.
 
-_If, for any reason, the buttons are unresponsive, consider refreshing the page. Occasionally, GitHub may encounter difficulty with a large number of emojis._
+There is no automated state tracking—your inventory exists only through careful reading and memory. Choose wisely, think like an engineer, and pay attention to system hints inspired by Linux, networking, DevOps, and embedded systems.
 
-You will assume the role of X, while I will take on the role of O.
+If at any point the navigation feels unresponsive or confusing, simply scroll back to the start of the game or refresh the page. Multiple endings are possible, but only a handful lead to a successful escape.
 
-Everytime you click on a slot in the grid, the page will take you to the matching tic tac toe game, this will be the one at the top of your page. Ignore the rest of the games.
+Good luck—and may your debugging instincts guide you. 🚀
 
 [Take me to the bottom](#bottom)
 
@@ -347,7 +340,7 @@ You find a hidden door labeled:
 - ✅ <a href="#er-secretwin">Insert Microcontroller Chip</a>
 - 🔙 <a href="#er-workshop">Go back</a>
 
----
+--
 
 ## 🕳️ Secret Ending
 <a name="er-secretwin"></a>
@@ -358,3 +351,16 @@ A hatch opens to the outside.
 🏆 **YOU WIN (Secret Hardware Ending)**
 
 👉 <a href="#-readme-game-the-terminal-escape-room">Play again</a>
+
+--
+
+--
+
+### 🏆 Pinned Projects (do this from your GitHub profile)
+Pin your best repos here: projects, FYP, dashboards, OptiLAM work, etc.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uttuJod&label=Profile%20views" />
+</p>
+<a name="bottom"></a>
+
