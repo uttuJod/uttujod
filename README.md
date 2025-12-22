@@ -44,8 +44,13 @@
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,react,html,css,git,github,docker,kubernetes,aws,azure,mysql,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,arduino,raspberrypi,python,cpp,c,java,cs,bash,pytorch,tensorflow,sklearn,js,ts,react,html,css,git,github,mysql,postgres,redis,nodejs" />
+</p>
+
+<p align="center">
+  <b>Cloud • ML/AI • DevOps • Embedded • Linux • Networking (TCP/UDP)</b>
 </p>
 
 ---
