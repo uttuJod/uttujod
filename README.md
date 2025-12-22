@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/utkarsh-tiwari-60922632b/">
+  <a href="https://www.linkedin.com/in/utkarsh-tiwari-60922632b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
