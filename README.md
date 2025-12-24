@@ -64,6 +64,21 @@
 ---
 
 ---
+
+<br/>
+
+## 📊 My GitHub Stats
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay75chauhan&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay75chauhan&theme=github_dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay75chauhan&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay75chauhan&theme=github_dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay75chauhan&theme=github_dark&utcOffset=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=radical)](https://git.io/streak-stats)
+
+
+<br/>
+
 <a name="top"></a>
 I invite you to step into a miniature escape room designed entirely within this README. Please allow a brief moment for the page to fully load, as the game relies on internal navigation links.
 
